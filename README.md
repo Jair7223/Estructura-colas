@@ -1,4 +1,5 @@
 # Estructura-colas
+
 Este programa esta realizado en DEV C++ en el cual se utiliza la estructura de colas
 
 En esta parte se declara la función y las determinadas librerías para poder utilizar lo que es el gotoxy.
