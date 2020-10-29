@@ -4,6 +4,7 @@
 Este programa esta realizado en DEV C++ en el cual se utiliza la estructura de colas
 
 
+
 En esta parte se declara la función y las determinadas librerías para poder utilizar lo que es el gotoxy.
 
 ![f1](https://user-images.githubusercontent.com/72090852/97493672-eec2d980-192a-11eb-8c80-b94b5b926408.jpg)
